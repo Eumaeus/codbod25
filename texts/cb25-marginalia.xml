@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Codex Bodmer 25 Marginalia</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>A collaborative edition of the marginal commentary on Codex Bodmer 25</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Cologny, Fondation Martin Bodmer, Cod. Bodmer 25: Tetraevangelium
+          (http://www.e-codices.unifr.ch/en/list/one/cb/0025). Parchment · (2) 196+23 bis (2) ff. ·
+          31.9 x 24.8 cm · Constantinople · end of the 10th century. A remarkable manuscript from
+          the end of the 10th century, undoubtedly produced in either Constantinople or Smyrna, CB
+          25 presents all four Gospels together in Greek. The biblical text is accompanied by
+          commentaries by Peter of Laodiceia (an exegetical chain) written in cursive. The volume is
+          decorated with two valuable full-page miniatures representing Luke and Mark against gold
+          backgrounds. (mes)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="work" n="Matthew">
+        <div type="section" n="1">
+          <head>α</head>
+          <p>
+            <seg n="1"> ἡ βίβλος τῆς γενέσεως ἐστι τοῦ γενομένου ἐκ σπέρματος <persName
+                n="urn:cts:fumss.ntpers.pers2"><choice>
+                  <abbr>δαδ</abbr>
+                  <expan>Δαυὶδ</expan>
+                </choice></persName> κατὰ σάρκα: διὸ καὶ ἐπὶ πάντων τὸ ἐγγέννησε λέγεται. </seg>
+            <seg n="2"> ἡ δὲ <choice>
+                <abbr>χυ</abbr>
+                <expan>Χριστοῦ</expan>
+              </choice>
+              <unclear>γένεσις</unclear> οὐχὶ ὁδός ἐστιν ἐκ τοῦ μὴ ὄντος εἰς τὸ εἶναι· ἀλλ‘ ὁδὸς ἀπὸ
+              τοῦ ἐν μορφῇ <choice>
+                <abbr> θῦ</abbr>
+                <expan>θεοῦ</expan>
+              </choice> ὑπάρχειν ἐπὶ τὸ ἀναλαβεῖν τὴν τοῦ δούλου μορφήν· </seg>
+            <seg n="3"> περὶ δὲ τοῦ τὸν μὲν ἄνωθεν κατάγειν τὰς διαδοχὰς, τὸν δὲ ἀνάπαλιν
+              πεποιηκέναι τῶν εὐαγγελιστῶν, οὐδὲν ἐπιμέμφεσθαι δεῖ. οὗτος γὰρ πόρρωθεν <rs
+                type="ethnic" n="urn:cts:fumss.ntpers.pers40">Ἑβραίοις</rs> φίλος ἦν ὁ τρόπος καὶ
+              τῶν θείων συνήθης γραφῶν. </seg>
+            <seg n="4"> οὐδὲ γὰρ τοὺς ἀνάντην καὶ ὄρθιον πορείαν ποιοῦντας καὶ τοὺς ἔμπαλιν δι'
+              αὐτῆς κατιόντας ἑτέραν τις φαίη βαδίζειν, μιᾶς ἀμφοτέροις ἐγκειμένης τοῖς τε ἀνιοῦσι
+              καὶ τοῖς κατιοῦσι τρίβου· </seg>
+            <seg n="5"> εἰ δὲ καὶ γυναῖκες οὐ γενεαλογοῦνται, ἀλλ' ἐπειδὴ ἐκ μόνης ἐτέχθη τῆς
+              παρθένου τὸ κατὰ σάρκα ὁ <choice>
+                <abbr>Χς</abbr>
+                <expan>Χριστός</expan>
+              </choice>, αὕτη δὲ ἐκ <persName n="urn:cts:fumss.ntpers.pers2"><choice>
+                  <abbr>δαδ</abbr>
+                  <expan>Δαυὶδ</expan>
+                </choice></persName> εἶχε τὸ γένος, εἰκότως ἐκ <persName
+                n="urn:cts:fumss.ntpers.pers2"><choice>
+                  <abbr>δαδ</abbr>
+                  <expan>Δαυὶδ</expan>
+                </choice></persName> αὐτὸν καὶ αὐτὸς γενεαλογεῖ·</seg>
+            <seg n="6"> πρώτου δὲ αὐτοῦ ἐμνήσθη καὶ οὐ τοῦ <persName n="urn:cts:fumss.ntpers.pers3"
+                >Ἀβραὰμ</persName>, ἐπειδὴ νεαρωτέρας εἶχον περὶ αὐτοῦ τὰς μνήμας, καὶ ὅτι προφήτης
+              ἦν καὶ βασιλεὺς καὶ ἔνδοξος παρ' αὐτοῖς· </seg>
+            <seg n="7"> ἐκαλεῖτο δὲ καὶ ἐρχόμενος, ὅς ἐστι <choice>
+                <abbr>Χς</abbr>
+                <expan>Χριστός</expan>
+              </choice>· τύπος γὰρ γέγονεν ὁ <persName n="urn:cts:fumss.ntpers.pers2"><choice>
+                  <abbr>δαδ</abbr>
+                  <expan>Δαυὶδ</expan>
+                </choice></persName> τοῦ <choice>
+                <abbr>χυ</abbr>
+                <expan>Χριστοῦ</expan>
+              </choice>. </seg>
+            <seg n="8"> ὥσπερ γὰρ ἐκεῖνος μετὰ τὸ ἀποδοκιμασθῆναι τὸν <persName
+                n="urn:cts:fumss.ntpers.pers42">Σαοὺλ</persName> ἑβασίλευσεν, οὕτω καὶ ὁ <choice>
+                <abbr>Χς</abbr>
+                <expan>Χριστός</expan>
+              </choice> μετὰ τὸ ἐκβληθῆναι τὸν πρῶτον <persName n="urn:cts:fumss.ntpers.pers41"
+                >Ἀδὰμ</persName>. τοῦ βασιεύειν τῶν ἐπὶ γῆς ζώων. ἀντεισήχθη ὁ δεύτερος Ἀδὰμ βασιλεὺς τῶν ἁπαντων. </seg>
+            <seg n="9"> τοῦ <persName n="urn:cts:fumss.ntpers.pers3">Ἀβραὰμ</persName> δὲ καὶ
+                τοῦ<persName n="urn:cts:fumss.ntpers.pers2"><choice>
+                  <abbr>δαδ</abbr>
+                  <expan>Δαυὶδ</expan>
+                </choice></persName> κατ' ἀρχὴν μόνων ἐμνήσθη, ἐπειδὴ πρὸς αὐτοὺς ἡ ἐπαγγελία τῆς
+              τοῦ λόγου σαρκώσεως γέγονεν. </seg>
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>β</head>
+          <p>
+            <seg n="1">ἀπὸ Ἀβραὰμ ἤρξατο τῆς γεναλογίας, 
+            ἐπειδὴ οὗτος πρῶτος ἀρχὴ γέγονε τῶν 
+            δύω λαῶν ἐν ἀκροβυτίᾳ πιστεύσας καὶ 
+            μείνας πιστὸς καὶ μετὰ τὴν περιτομήν, καὶ ὅτι 
+            αὐτῷ πρώτῳ ἐδόθησαν οἱ χρησμοὶ οἱ περὶ 
+            τῆς κλήσεως τῶν ἐθνῶν καὶ τῆς τοῦ λόγου σαρκώσεως. </seg>
+            <seg n="2">δι’ ἀρρένων δὲ ποιεῖται τὴν γεναλογίαν, ἐπειδὴ 
+            ἡ γυνὴ παρακολούθημα οὖσα οὐκ ἀρχή ἐστι 
+            τοῦ ἀνδρός. διὰ δὲ τοῦ ἀναγεγράφθαι 
+            ἐν τῇ γεναλογίᾳ τῆς ε Θάμαρ καὶ τῆς ἀ-
+            σήμου Ῥαχάβ, ἅτη δέ ἐστιν Ῥαὰβ ἡ πόρνη, καὶ 
+            τῆς  Μωαβίτιδος Ῥοὺθ καὶ τῆς τοῦ Οὐρίου, δι-
+            δάσκει προτρέπεσθαι καὶ τοὺς ἀπὸ ἀθεμιτο-
+            γαμῶν καὶ τὰ ἔθνη εἰς τὴν πίστιν ὁ εὑαγγε-
+            λιστής·</seg> <seg n="1">οὐδὲ γὰρ ἀπὸ τῶν τοιούτων ἀπηξίωσεν ὁ κύριος κατάγεσθαι. διὸ καὶ συναριθμεῖ ἀνδράσι ταύτας τὰς τρεῖς· ἐχρῆν γὰρ τὸν εἰς γένεσιν ἐρχόμενον καὶ ἐν ὁμοιώματι ἁμαρτίας ἐπιδημήσαντα ἡμῖν ἀναγεγράφθαι ἥκειν φερόμενον καὶ διὰ γυναικῶν ἐν τῇ γενεαλογίᾳ αὐτοῦ τῶν ἐπιληψίμων, τῆς τε Θάμαρ καὶ τῆς Ῥοὺθ τῆς Μωαβίτιδος, ἥτις γέγονε τύπος τῆς ἐξ ἐθνῶν ἐκκλησίας· 
+            [and at this point I need to call home, so you can continue on p. 76 of the PDF “Des_Petrus_von_…” ]</seg>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
