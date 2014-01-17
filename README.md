@@ -11,6 +11,10 @@ These images are available under the terms of a Creative Commons license (CC BY-
 
 [This page provides access to the images via the CITE architecture.](http://folio.furman.edu/citeservlet/browseimg?urn=urn:cite:ecod:codbod25)
 
+## Documentation of work in progress
+
+[Folio 1-recto](http://folio.furman.edu/citeservlet/indices?urn=urn%3Acite%3Aecod%3Acodbod25.cb-0025_001r)
+
 ## Collaborators
 
 - Christopher Blackwell
