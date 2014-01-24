@@ -21,5 +21,6 @@ These images are available under the terms of a Creative Commons license (CC BY-
 - Elias Eells
 - Christine Gwinn
 - Sam Hill
+- Laura Krueger
 - Riley McCallus
 - Shannon Young
