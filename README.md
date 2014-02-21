@@ -1,4 +1,4 @@
-Codex Bodmer 25 · Collaborative Editing
+New Testament Manuscripts · Collaborative Editing
 ========
 
 The Manuscripts Club at Furman University is collaboratively preparing an edition of Codex Bodmer 25.
@@ -12,6 +12,8 @@ These images are available under the terms of a Creative Commons license (CC BY-
 [This page provides access to the images via the CITE architecture.](http://folio.furman.edu/citeservlet/browseimg?urn=urn:cite:ecod:codbod25)
 
 [This page provides access to images of the 15th Century Wycliffe New Testament](http://folio.furman.edu/citeservlet/browseimg?urn=urn:cite:fufolioimg:WycliffRGB)
+
+[This page provides access to images of the 7th Century St. Chad Gospels](http://folio.furman.edu/citeservlet/browseimg?urn=urn:cite:fufolioimg:ChadRGB)
 
 ## Documentation of work in progress
 
