@@ -38,7 +38,7 @@
     <text xml:lang="grc">
         <body>
             <div n="1" type="chapter">
-                <div n="title"><p>Ε᾿YΑΓΓΕ΄ΛΙΟΝ ΚΑΤA` ΜΑΤΘΑ῀ΙΟΝ</p></div>
+                <div type="verse" n="title"><p>Ε᾿YΑΓΓΕ΄ΛΙΟΝ ΚΑΤA` ΜΑΤΘΑ῀ΙΟΝ</p></div>
                 <div n="1" type="verse">
                     <p>Βίβλος γενέσεως <choice><abbr>ιυ χυ</abbr><expan>Ἰησοῦ χριστοῦ</expan></choice> υἱοῦ <choice><abbr>δαδ</abbr><expan>Δαυὶδ</expan></choice> υἱοῦ Ἀβραάμ. </p>
                 </div>
