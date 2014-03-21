@@ -1,6 +1,8 @@
 # Plan for Furman Engaged!
 
-- 30 minutes of talking; 20 minutes of discussion and free-form show-and-tell.
+## Talking
+
+30 minutes of talking; 20 minutes of discussion and free-form show-and-tell.
 
 - Brief introductions to Wycliffe, St. Chad, Codex Bodmer 25
 
@@ -10,20 +12,23 @@
 
     - Codex Bodmer 25. Throw up a comparative image of Venetus A. 
 
-        - Relationships among commentary and text; images. This is why we need to work in digital space.
+        - Show neat examples where the manuscripts contain text in shapes.
 
 - Palaeography
 
     - Demonstrate capturing an ROI of an image.
 
-    - A long history of "Palaeographic Guides" that offers samples; we have the chance to be comprehensive. 
+    - Ancient writing is hard to read. You need helpful guides. We're making some.
 
 - Transcription and Translation
 
-    - Show what we have from Peter of L.
+    - Show what we have from Peter of Laodicea.
 
 - Interpretation
 
     - Geneaeology.
 
+## Questions and Answers
 
+
+## What We Need to Do
