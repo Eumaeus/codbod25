@@ -31,3 +31,5 @@ These images are available under the terms of a Creative Commons license (CC BY-
 - Laura Krueger
 - Riley McCallus
 - Shannon Young
+- Brittany Baker
+- Merritt Stewart
